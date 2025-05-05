@@ -12,15 +12,15 @@ The training, validation, and test datasets can be downloaded from:
 
 Expected directory structure:
 
-project/
-├── train/
-├── val/
-├── test/
-├── Projet_Medical_Classification.ipynb
-├── CNN_model.keras
-├── CNN_model_SL.keras
-├── history.pkl
-├── historySL.pkl
+project/  
+├── train/  
+├── val/  
+├── test/  
+├── Projet_Medical_Classification.ipynb 
+├── CNN_model.keras  
+├── CNN_model_SL.keras  
+├── history.pkl  
+├── historySL.pkl  
 
 
 **Important:** Place the `train`, `val`, and `test` folders in the same directory as the notebook before running it.
